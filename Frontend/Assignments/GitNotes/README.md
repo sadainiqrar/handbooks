@@ -1,6 +1,6 @@
 # GitNotes!
 
-Why Gists are so popular? In open source community you want to create content & share it with people. With Gists you can create public content, code fragment, configuration files & files. You can share it with people, search it on Github, save it to your profile & much more. In this assignment you are going to provide a better solution for Managing Gists
+Why Gists are so popular? In open source community you want to create content & share it with people. With Gists you can create public content, code fragment & configuration files. You can share it with people, search it on Github, save it to your profile & much more. In this assignment you are going to provide a better solution for Managing Gists
 
 ## Screens Flow
 
